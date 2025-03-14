@@ -24,7 +24,6 @@ Ministry of Defence
 A web-based application designed to facilitate the interview process for DRDO’s Recruitment and Assessment Centre (RAC) by providing a structured and fair interviewing system that evaluates the candidates objectively, based on both the relevance of questions and the quality of answers.
 
 ## Proposed Solution / Architecture Diagram  
-**(This section would typically include a flowchart or diagram to visualize the proposed architecture.)**
 
 - **User Interface (UI):** A simple and interactive interface for both the interviewers and candidates.  
 - **Backend:** An AI-powered engine that matches questions with candidates' expertise levels, grades their responses, and generates scores.  
